@@ -1,0 +1,32 @@
+{
+  "slug": "ghana-regional-development-census-explorer",
+  "title": "Ghana Regional Development & Census Explorer",
+  "number": "04",
+  "category": "Public Data & Geospatial Analytics",
+  "status": "Portfolio ready",
+  "featured": true,
+  "summary": "A civic-data platform examining population change, education, employment, essential services and regional inequality across Ghana's 16 regions.",
+  "question": "How do development conditions differ across Ghana's regions, and how sensitive are regional rankings to the methodological choices used to construct them?",
+  "stack": [
+    "Python",
+    "pandas",
+    "scikit-learn",
+    "Plotly",
+    "Streamlit",
+    "PCA",
+    "K-means",
+    "Docker"
+  ],
+  "highlights": [
+    "16 regional profiles",
+    "Transparent composite index",
+    "Weight sensitivity simulation",
+    "PCA and clustering",
+    "Downloadable regional briefs"
+  ],
+  "links": {
+    "live": "REPLACE_WITH_STREAMLIT_URL",
+    "github": "REPLACE_WITH_GITHUB_URL"
+  },
+  "cover": "/assets/projects/ghana-regional-development-cover.png"
+}
